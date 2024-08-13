@@ -1,0 +1,1 @@
+<img src="{{ asset('img/icono a color.png') }}" alt="Logo" style="width: 20%; display: block; margin: 0 auto;">
